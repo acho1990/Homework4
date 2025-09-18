@@ -1,0 +1,15 @@
+G:\Homework4\Homework4_V2\bin\Debug\net8.0\Homework4_V2.exe
+G:\Homework4\Homework4_V2\bin\Debug\net8.0\Homework4_V2.deps.json
+G:\Homework4\Homework4_V2\bin\Debug\net8.0\Homework4_V2.runtimeconfig.json
+G:\Homework4\Homework4_V2\bin\Debug\net8.0\Homework4_V2.dll
+G:\Homework4\Homework4_V2\bin\Debug\net8.0\Homework4_V2.pdb
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\Homework4_V2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\Homework4_V2.AssemblyInfoInputs.cache
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\Homework4_V2.AssemblyInfo.cs
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\Homework4_V2.csproj.CoreCompileInputs.cache
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\Homework4_V2.sourcelink.json
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\Homework4_V2.dll
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\refint\Homework4_V2.dll
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\Homework4_V2.pdb
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\Homework4_V2.genruntimeconfig.cache
+G:\Homework4\Homework4_V2\obj\Debug\net8.0\ref\Homework4_V2.dll
